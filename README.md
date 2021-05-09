@@ -51,6 +51,10 @@ post_setup(locals()) # this is used to hold the process from exiting.
 Flask is hard requirement, the others could be eliminated from the codebase with proper care.
 
 
+### Note!
+I'll repeat it again, this is highly expermintal, it was a proof of concept that python could do the same thing as Node.js when it comes to hot-reloading, I highly advise you to not using it for anything other-than experimenting & research stuff. I hope you understand my message well. 
+
+
 ### Licesnce
 ```
 Do what ever you want with this, but keep in-mind, I am not liable to any damage the software, it's usage/mis-use might cause at any point of time and without any regards.
