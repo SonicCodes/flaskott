@@ -1,7 +1,6 @@
 # Flaskott 🔥
 ## [Hotpress](https://github.com/SonicCodes/hotpress) for Flask, it's really hot.
 
-
 Basically [Hotpress](https://github.com/SonicCodes/hotpress) remade for flask, it's really developmental at this stage, you are free to make contributions and prs, and don't forget to issue if you got something wrong.
 
 All the features in Hotpress are included, and it does live code swapping, using killable threads.
@@ -43,6 +42,19 @@ post_setup(locals()) # this is used to hold the process from exiting.
 ### Result
 ![Screen Shot 2021-05-09 at 4 10 53 AM](https://user-images.githubusercontent.com/48802163/117557576-e9cea780-b07c-11eb-98fa-b2a28747d8f4.png)
 
+
+### Requirements
+- [watchgod](https://pypi.org/project/watchgod/)
+- [flask](https://pypi.org/project/Flask/)
+- [asyncio](https://pypi.org/project/asyncio/)
+
+Flask is hard requirement, the others could be eliminated from the codebase with proper care.
+
+
+### Licesnce
+```
+Do what ever you want with this, but keep in-mind, I am not liable to any damage the software, it's usage/mis-use might cause at any point of time and without any regards.
+```
 
 
 
