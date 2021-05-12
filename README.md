@@ -52,7 +52,7 @@ Flask is hard requirement, the others could be eliminated from the codebase with
 
 
 ### Note!
-I’ll repeat, this is highly experimental, it was a proof of concept that python could do the same thing as Nodejs when it comes too hot-reloading, I highly advise you to not using it for anything other-than experimenting & research stuff. I hope you understand my message well.
+I’ll repeat, this is highly experimental, it was a proof of concept that python could do the same thing as Nodejs when it comes to hot-reloading, I highly advise you to not using it for anything other-than experimenting & research stuff. I hope you understand my message well.
 
 
 ### Licesnce
